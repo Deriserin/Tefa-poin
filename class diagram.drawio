@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="idPB2xV9qFQy2ml_jp73">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Siswa&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;idSiswa: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;nama: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;kelas: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;jenis.kelamin: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;jurusan: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;email: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;alamat: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;no tlp: nt&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;poin: int&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221" y="600" width="358" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="385" width="165" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-18" value="Guru&lt;div&gt;idGuru: String&lt;/div&gt;&lt;div&gt;nama: String&lt;/div&gt;&lt;div&gt;jenis.kelamin: String&lt;/div&gt;&lt;div&gt;email: String&lt;/div&gt;&lt;div&gt;alamat: String&lt;/div&gt;&lt;div&gt;no tlp: int&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="401.25" width="140" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-23" value="Penghargaan&lt;div&gt;idPenghargaan: int&lt;/div&gt;&lt;div&gt;deskripsi: String&lt;/div&gt;&lt;div&gt;poinPositif: int&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="397.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-26" value="Admin&lt;div&gt;idAdmin: String&lt;/div&gt;&lt;div&gt;nama_string&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="267.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-28" value="Pelanggaran&lt;div&gt;idPelanggaran: int&lt;/div&gt;&lt;div&gt;deskripsi: String&lt;/div&gt;&lt;div&gt;poinNegatif: int&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="402.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-32" value="Rekapitulasi&lt;div&gt;idRekap: int&lt;/div&gt;&lt;div&gt;siswa: Siswa&lt;/div&gt;&lt;div&gt;totalPoin: int&lt;/div&gt;&lt;div&gt;tangal: Date&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="405" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.731;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RWk6TN-ZhNDMW-Mhiggg-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.99730234319617" y="329.9998624996147" as="sourcePoint" />
+            <mxPoint x="170" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-39" value="manage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="325" as="sourcePoint" />
+            <mxPoint x="310" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.461;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RWk6TN-ZhNDMW-Mhiggg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393" y="480" as="sourcePoint" />
+            <mxPoint x="400" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="RWk6TN-ZhNDMW-Mhiggg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="480" as="sourcePoint" />
+            <mxPoint x="510" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RWk6TN-ZhNDMW-Mhiggg-24" target="RWk6TN-ZhNDMW-Mhiggg-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="sourcePoint" />
+            <mxPoint x="660" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.812;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RWk6TN-ZhNDMW-Mhiggg-15" target="RWk6TN-ZhNDMW-Mhiggg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="sourcePoint" />
+            <mxPoint x="460" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-45" value="manage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="435" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-46" value="manage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-47" value="catatPelanggaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-48" value="catatPenghargaan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="495" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RWk6TN-ZhNDMW-Mhiggg-49" value="rekap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
